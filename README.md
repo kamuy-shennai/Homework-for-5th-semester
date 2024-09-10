@@ -43,11 +43,10 @@
     </tr>
     <tr>
 		<td>人工智能原理与技术</td>
-		<td><a href="https://github.com/kamuy-shennai/Elective-coursework-for-the-fifth-semester/blob/main/README.md?plain=1" >大作业</a></td>
+		<td><a href="https://github.com/kamuy-shennai/Elective-coursework-for-the-fifth-semester/tree/main/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8E%9F%E7%90%86%E4%B8%8E%E5%BA%94%E7%94%A8" >大作业</a></td>
     </tr>
     <tr>
 		<td>多媒体技术与应用</td>
 		<td>别选</td>
     </tr>
 </table>
-
